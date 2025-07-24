@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 💻 Tech Stack
+## 🌱 Tech Stack
 
 **🖥️ Languages** 
 <p align="center">
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 🚀 Projects
+## 👯 Projects
 
 | 기간                  | 프로젝트                             | 설명                                                         | 역할            | Tech Stack                             |
 |---------------------|------------------------------------|------------------------------------------------------------|---------------|----------------------------------------|
@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 | 2025.06 – 현재       | 장소 기반 콘텐츠 큐레이션 서비스      | 참가자들의 중간 위치 지역 추천 및 콘텐츠 큐레이션 제공 서비스               | 백엔드          | Spring Boot   |
 
 
-## Github stats
+## 💬 Github stats
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=jihuuuu&show_icons=true&theme=dark&count_private=true&show_rank=true"
