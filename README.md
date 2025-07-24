@@ -30,11 +30,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI" />
 </p>
 
-**🛠️ ORM**
-<p align="center">
-  <img src="https://img.shields.io/badge/SQLAlchemy-000000?logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" />
-  <img src="https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=white" alt="Hibernate (JPA)" />
-</p>
 
 **💾 Database & Cache**
 <p align="center">
