@@ -59,3 +59,11 @@ Here are some ideas to get you started:
     alt="jihuuuu's GitHub Stats" />
 </p>
 
+## 🏆 Baekjoon
+
+<p align="center">
+  <a href="https://www.acmicpc.net/user/njh2806">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=njh2806" alt="Solved.ac Badge" />
+  </a>
+</p>
+
