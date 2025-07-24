@@ -1,3 +1,4 @@
+<h1 align="center">JIHU NAM</h1>
 
 <!--
 **jihuuuu/jihuuuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -39,7 +40,6 @@ Here are some ideas to get you started:
 
 
 
-
 ---
 
 ## 🚀 Projects
@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 | 2025.06 – 현재       | 장소 기반 콘텐츠 큐레이션 서비스      | 참가자 중간 위치 계산·모임 성격별 핫플 추천 API 개발               | 백엔드          | Spring Boot   |
 
 
-
+## Github stats
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=jihuuuu&show_icons=true&theme=dark&count_private=true&show_rank=true"
